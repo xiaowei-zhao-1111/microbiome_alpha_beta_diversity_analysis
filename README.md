@@ -4,7 +4,7 @@ This repository contains R code and example data for performing alpha and beta d
 
 ## Repository Structure
 
-- `scripts/`  
+- `alpha_beta_diversity_analysis.R`  
   Contains the core R script for the diversity analysis pipeline.
 
 - `data/`  
