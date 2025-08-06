@@ -7,9 +7,8 @@ This repository contains R code and example data for performing alpha and beta d
 - `alpha_beta_diversity_analysis.R`  
   Contains the core R script for the diversity analysis pipeline.
 
-- `data/`  
-  Example input data:
-  - `species_abundance.tsv`: Species-level relative abundance table.
+- Example input data:
+  - `species_abundance.tsv`: Relative abundance data from MetaPhlAn.
   - `metadata.csv`: Sample metadata including variables such as age, sex, BMI, condition, and household ID.
 
 - `results/`  
